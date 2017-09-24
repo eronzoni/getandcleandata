@@ -10,7 +10,8 @@ The script
 
 1. downloads the zip file from given URL
 2. unzips it in a new directory
-2. reads all the data in the text files
+2. reads all the data from the text files into R objects like data frames
+4. assigns the right variables names to the columns 
 
 ## run_analysis.R
 
